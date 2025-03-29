@@ -52,5 +52,17 @@
 * Pode testar novas ideias usando branches, pull requests e merge
 
 # Plataforma colaborativa
-Ponto de parada:
-https://learn.microsoft.com/en-us/training/modules/introduction-to-github/4-collaborative-platform
+* A colaboração está no cerne de tudo o que o GitHub faz
+* **Issues**: Os problemas do GitHub foram criados para rastrear ideias, feedback, tarefas ou bugs para trabalho no GitHub. https://github.com/alxss01/github-foundations/issues/2
+* **Discussions**: Discussões são para conversas que precisam ser acessíveis a todos e não são relacionadas a código.
+* Em settings, habilitar a discussions. Depois iniciar uma discussions: https://github.com/alxss01/github-foundations/discussions/3
+* Cada discussion precisa ser criada em uma categoria. 
+* As discussions estarão disponíveis conforme local criado. Organization ou repositório. E depende da permissão do usuário para visualização.
+* Exemplo de categorias de discussions: Anúncios, Geral, Ideias, Enquetes, Perguntas e respostas.
+
+# Gerenciamento da Plataforma GitHub
+* **Gerenciando notificações**: Notificações são as atualizações que você recebe para atividades específicas nas quais você está inscrito.
+    * Assinaturas de notificação.
+    * Toda atividade em um repositório pode ser notificado, basta assinar.
+    * Em alguns casos, você é automaticamente inscrito em conversas no GitHub. Exemplos incluem abrir um pull request ou issue, comentar em um thread ou ser atribuído a um issue ou pull request.
+* **GitHub Pages**: O GitHub Pages é um serviço de hospedagem de sites estáticos que pega arquivos HTML, CSS e JavaScript diretamente de um repositório no GitHub. 
