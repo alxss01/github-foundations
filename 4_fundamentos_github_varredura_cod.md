@@ -1,0 +1,1 @@
+# Configurar a varredura de código no GitHub
