@@ -33,6 +33,4 @@
 * Severidade: Settings >> Advanced Security >> Protection rules (Mudar severidade) High or higher
 * Repositório para exercícios: https://github.com/skills/introduction-to-codeql (Verificar como é configurado botões no README)
 * O Code Scanning faz parte do conjunto de produtos GitHub Advanced Security (GHAS) . Todos os recursos do Advanced Security são 100% gratuitos para repositórios públicos de código aberto.
-
-Ponto de parada:
 * Fazer Exercício: https://github.com/skills/introduction-to-codeql
