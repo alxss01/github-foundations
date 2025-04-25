@@ -49,4 +49,55 @@
 
       ![alt text](images/issue_disponivel.png)
 
-//Ponto de parada: https://learn.microsoft.com/en-us/training/modules/contribute-open-source/3-contribute
+2. Passos práticos
+   1. Criar fork do repositório
+   2. Fazer clone na máquina local `git clone <URL>`.
+   3. Criar nova branch `git checkout -b feature/validate`
+   4. Realizar ajustes, fazer commit e push
+   5. Abrir PR, respeitando as boas práticas descritas no arquivo CONTRIBUTING.md, especificando a Issue que foi trabalhada.
+   6. Caso alteração ainda esteja em andamento, poderá ser criada draft pull request (rascunho para pedir orientação)
+
+### Criando Pull Requests
+
+- Para descrever boas mensagens de commit
+
+  1.  O assunto da mensagem de commit deve completar a seguinte frase
+
+      - Se aplicado, esse commit irá <...>
+
+  2.  Descrição sucinta usando o imperativo, presente do indicativo.
+
+      - Adiciona/adicionado (add/added) método de validação de data e hora
+
+  3.  Limite o **assunto** a 50 caracteres.
+
+  4.  Comece com letra maiúsca e não termine com ponto final (.)
+
+  5.  Na mensagem de Pull Request, use sempre o tempo presenta
+
+      - Certifique-se de incluir a motivação da mudança.
+      - Explicar o quê e porquê, não o como.
+
+### Exercício
+
+- Fork -> clone -> edit -> PR que você encontrará frequentemente como contribuidor!
+  https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.pt_br.md
+
+- Se você quiser mais prática, verifique code [contributions](https://github.com/roshanjossey/code-contributions).
+
+- Problemas simples que você pode começar. Verifique em [a lista de projetos no web app](https://firstcontributions.github.io/#project-list)
+
+### Usando formattador de código?
+
+- Se tiver usando formatador de código, usar `git add -p`
+
+### Perguntas
+
+1. Qual é o melhor lugar em um repositório do GitHub para descobrir onde você pode ajudar em um projeto?
+   R: The Issues List (A lista de problemas)
+
+2. Qual é a maneira preferida de pedir ajuda ou avaliações em uma pull request?
+   R: Adicionar comentário na pull request.
+
+3. O que é necessário antes de criar uma solicitação de pull no GitHub?
+   R: Fork um repositório, Clone, commit das alterações, e push para o meu fork.
